@@ -55,6 +55,7 @@ Can you predict how strong concrete will be just from its recipe? Turns out yes.
 * 🎤 Led a hackathon with a **20+ person team**, **150+ participants**, and **10+ sponsors** (Verizon included)
 * 🎨 Took a website homepage from pencil sketch → Figma → live code
 * ➗ Can make long division fun. Seriously.
+* 🌶️ Currently training my taste buds to tell spices apart, basically feature importance for flavor
 
 ---
 
