@@ -41,6 +41,10 @@ Can you predict how strong concrete will be just from its recipe? Turns out yes.
 ![Databricks](https://img.shields.io/badge/Databricks-E11D48?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-8B5CF6?style=for-the-badge&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-E11D48?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-8B5CF6?style=for-the-badge&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E11D48?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-8B5CF6?style=for-the-badge&logoColor=white)
+![R](https://img.shields.io/badge/R-E11D48?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E11D48?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8B5CF6?style=for-the-badge&logo=css&logoColor=white)
@@ -50,7 +54,7 @@ Can you predict how strong concrete will be just from its recipe? Turns out yes.
 
 ### ⚡ Fun facts
 
-* 🎤 Led a hackathon with **250+ attendees** and **10+ sponsors** (Verizon included)
+* 🎤 Led a hackathon with a **20+ person team**, **150+ participants**, and **10+ sponsors** (Verizon included)
 * 🎨 Took a website homepage from pencil sketch → Figma → live code
 * ➗ Can make long division fun. Seriously.
 
